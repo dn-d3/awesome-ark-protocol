@@ -82,7 +82,7 @@ Ark is a scaling solution for Bitcoin that involves moving transactions off-chai
 - [emulator](https://github.com/arkade-os/emulator)![stars](https://img.shields.io/github/stars/arkade-os/emulator.svg?style=social) - Introspection is all you need 
 - [solver](https://github.com/arkade-os/solver)![stars](https://img.shields.io/github/stars/arkade-os/solver.svg?style=social) - Solve intents living in the arkade virtual mempool
 - [arkade-unilateral-exit](https://github.com/arkade-os/arkade-unilateral-exit)![stars](https://img.shields.io/github/stars/arkade-os/arkade-unilateral-exit.svg?style=social) - Keyless web executor for Arkade unilateral exit packages 
-- [ark-expert](https://github.com/TheBitcoinBreakdown-95/ark-expert)![stars](https://img.shields.io/github/stars/TheBitcoinBreakdown-95/ark-expert.svg?style=social) - Claude Code command for answering Ark protocol questions from the public arklabs and second-tech source repos (0★)
+- [ark-expert](https://github.com/TheBitcoinBreakdown-95/ark-expert)![stars](https://img.shields.io/github/stars/TheBitcoinBreakdown-95/ark-expert.svg?style=social) - Claude Code command for answering Ark protocol questions from the public arklabs and second-tech source repos
 
 
 
